@@ -19,25 +19,18 @@ data engineering problem.
 
 ## Project structure
 
+```text
 text-encoding-to-utf8/
-│
 ├─ notebooks/
-│ └─ encoding_lab.ipynb
-│
+│  └─ encoding_lab.ipynb
 ├─ src/
-│ └─ convert.py
-│
-├─ data_raw/
-│ └─ original input files
-│
-├─ data_utf8/
-│ └─ converted UTF-8 files
-│
-├─ README.txt
+│  └─ convert.py
+├─ data_raw/        # input files (not tracked by git)
+├─ data_utf8/       # UTF-8 outputs (not tracked by git)
 ├─ README.md
 ├─ requirements.txt
 └─ .gitignore
-
+```
 
 ## How to run
 

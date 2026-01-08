@@ -54,7 +54,7 @@ This reads all files from data_raw/ and writes UTF-8 outputs to data_utf8/.
 
 
 ### Dataset
-
+```text
 die_ISO-8859-1.txt
 file_guide.csv
 harpers_ASCII.txt
@@ -62,7 +62,7 @@ olaf_Windows-1251.txt
 portugal_ISO-8859-1.txt
 shisei_UTF-8.txt
 yan_BIG-5.txt
-
+```
 
 ### Techniques used
 
